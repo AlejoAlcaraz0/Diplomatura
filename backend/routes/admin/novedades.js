@@ -152,6 +152,4 @@ router.post('/editar', async (req, res, next) => {
   }
 });
 
-
-
 module.exports = router;
